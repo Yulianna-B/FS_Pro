@@ -1,0 +1,13 @@
+lib/
+*.txt
+DiagnosticMessage*/
+tsc
+tsserver/
+dist/
+SECURITY.md
+.cache/
+build/
+.DS_Store
+.vscode/
+node_modules/
+*.log
